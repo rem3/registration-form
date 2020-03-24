@@ -1,0 +1,15 @@
+h1 {color: black;
+		text-align: center;
+		font-size: 36px;
+		font-weight: bold;}
+body {color: silver;
+		font-size: 24px;
+		background-image: url("image.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;}
+div {margin: 30px 30px 30px 530px;
+		border: 1px solid black;
+		padding: 50px;
+		background-color: #000080;
+		width: 170px;}
